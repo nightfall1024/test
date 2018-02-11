@@ -12,3 +12,6 @@ printf "Press return to execute the call: \n"
 read
 curl -i "http://$org-$env.$api_domain/v1/learn-edge"
 
+
+## Add additional comments from PC and push changes to GitHub
+
