@@ -12,3 +12,4 @@ deploy_proxy
 
 ## All done.
 
+# Add more instruction on Feb 10, 2018 for testing
